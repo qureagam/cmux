@@ -27,4 +27,4 @@ It includes utilities for handling HTTP requests/responses, parsing configuratio
 
 ## 📦 Installation
 ```bash
-go get github.com/your-username/C
+go get github.com/qureagam/cmux/C
